@@ -31,12 +31,12 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 246999126;
-			PBXWorkspaceStateSaveDate = 246999126;
+			PBXPerProjectTemplateStateSaveDate = 247016365;
+			PBXWorkspaceStateSaveDate = 247016365;
 		};
 		perUserProjectItems = {
-			553599870EB8E97500AA5849 /* PBXTextBookmark */ = 553599870EB8E97500AA5849 /* PBXTextBookmark */;
-			553599B80EB8EEC500AA5849 /* PBXTextBookmark */ = 553599B80EB8EEC500AA5849 /* PBXTextBookmark */;
+			553599870EB8E97500AA5849 = 553599870EB8E97500AA5849 /* PBXTextBookmark */;
+			553599B80EB8EEC500AA5849 = 553599B80EB8EEC500AA5849 /* PBXTextBookmark */;
 		};
 		sourceControlManager = 553599600EB8E2DF00AA5849 /* Source Control */;
 		userBuildSettings = {
@@ -71,6 +71,7 @@
 		fallbackIsa = XCSourceControlManager;
 		isSCMEnabled = 0;
 		scmConfiguration = {
+			repositoryName = "Juce Stuff";
 		};
 	};
 	553599610EB8E2DF00AA5849 /* Code sense */ = {

@@ -67,7 +67,7 @@ public:
     {				
         bool bounced = false;
 		
-		// Move ball
+		// Set new co-ordinates
 		x += dx;
         y += dy;
 		
@@ -103,8 +103,10 @@ public:
 			bounced = true;
 		}
 		
+		// Move ball to new co-ordinates
         setTopLeftPosition ((int) x, (int) y);
 		
+		// If the ball has hit a side:
 		if (bounced) 
 			sendCollisionMessage();
     }
