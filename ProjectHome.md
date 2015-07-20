@@ -1,0 +1,1 @@
+This repository is a way to store and log my juce projects. Many of them are just simple test applications with no real use.
